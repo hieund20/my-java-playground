@@ -5,7 +5,7 @@ import java.io.*;
 public class FileReadWrite {
 
     public static void main(String[] args) {
-        
+
         String filePath = "output.text";
         String content = "This is content which was written into the file.\n The second lie.";
 
